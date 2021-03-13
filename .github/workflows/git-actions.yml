@@ -17,4 +17,3 @@ jobs:  								# gather all the jobs that run in the workflow
            cat requirements.txt 
       
       - uses: aufdenpunkt/python-safety-check
-        
